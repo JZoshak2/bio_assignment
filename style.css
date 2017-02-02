@@ -1,0 +1,24 @@
+h1 {
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+
+img {
+	float: left;
+}
+
+a {
+	color: firebrick;
+}
+
+.mainParagraph {
+	float: left;
+	width: 400px;
+	margin-right: 200px;
+	margin-left: 100px;
+}
+
+.classInfo {
+	float: left;
+}
